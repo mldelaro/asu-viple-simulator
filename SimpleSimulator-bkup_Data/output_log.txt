@@ -1,0 +1,23 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560 Ti  (ID=0x1087)
+    Vendor:   NVIDIA
+    VRAM:     1227 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\mldof\Documents\unity-workspace\ASU_VPL_Simulator\SimpleSimulator_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mldof\Documents\unity-workspace\ASU_VPL_Simulator\SimpleSimulator_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mldof\Documents\unity-workspace\ASU_VPL_Simulator\SimpleSimulator_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mldof\Documents\unity-workspace\ASU_VPL_Simulator\SimpleSimulator_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\mldof\Documents\unity-workspace\ASU_VPL_Simulator\SimpleSimulator_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\mldof\Documents\unity-workspace\ASU_VPL_Simulator\SimpleSimulator_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\mldof\Documents\unity-workspace\ASU_VPL_Simulator\SimpleSimulator_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\mldof\Documents\unity-workspace\ASU_VPL_Simulator\SimpleSimulator_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\mldof\Documents\unity-workspace\ASU_VPL_Simulator\SimpleSimulator_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\mldof\Documents\unity-workspace\ASU_VPL_Simulator\SimpleSimulator_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\mldof\Documents\unity-workspace\ASU_VPL_Simulator\SimpleSimulator_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.056 seconds
+desktop: 1920x1080 60Hz; virtual: 3280x1352 at -1360,-272
+<RI> Initializing input.
+<RI> Input initialized.
